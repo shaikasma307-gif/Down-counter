@@ -1,0 +1,7 @@
+Count Digits Testbench
+----------------------
+Number = 0, Digit Count = 1
+Number = 7, Digit Count = 1
+Number = 123, Digit Count = 3
+Number = 12345, Digit Count = 5
+Number = 987654321, Digit Count = 9
